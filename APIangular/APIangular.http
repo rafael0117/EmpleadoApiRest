@@ -1,0 +1,7 @@
+@APIangular_HostAddress = http://www.miapiangular.somee.com
+
+
+GET {{APIangular_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
